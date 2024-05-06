@@ -3,13 +3,13 @@ title: Frp内网穿透访问远端设备
 tags: ["Frp", "内网穿透"]
 category: 教程
 excerpt: 疫情期间需要远程访问一台远端内网中的树莓派, 恰好手边有一台拥有公网 ip 的华为云 ECS 服务器, 因此可以借助frp轻松解决上述需求, 步骤如下
-date: "2024-03-16T05:35:07.322Z"
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+date: "2022-06-08T00:00:00.000Z"
+coverImage: "/assets/articles/frp/cover.png"
 author:
   name: WitchElaina
   picture: "/assets/blog/authors/witchelaina.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/articles/frp/cover.png"
 ---
 
 疫情期间需要远程访问一台远端内网中的树莓派, 恰好手边有一台拥有公网 ip 的华为云 ECS 服务器~~(不是广告)~~, 因此可以借助[frp](https://github.com/fatedier/frp)轻松解决上述需求, 步骤如下
