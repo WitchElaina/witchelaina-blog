@@ -1,5 +1,5 @@
 export const EXAMPLE_PATH = "blog-starter";
-export const CMS_NAME = "Markdown";
+export const CMS_NAME = "WitchElaina Blog";
 export const BLOG_TITLE = "WitchElaina Blog.";
 export const BLOG_DESCRIPTION =
   "A blog about programming, web development, and tech.";
