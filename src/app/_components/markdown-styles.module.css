@@ -16,3 +16,15 @@
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
 }
+
+.markdown code {
+  @apply bg-gray-100 mx-1 px-1 py-1 rounded;
+}
+
+.markdown pre {
+  @apply bg-gray-200 p-4 rounded overflow-scroll;
+}
+
+.markdown pre code {
+  @apply m-0 p-0 bg-gray-200;
+}
